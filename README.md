@@ -1,8 +1,11 @@
 # Hi There ✌️, I'm Catalina Alejandra Gonpar 🤓
-## I'm a full stack java trainee
+## I'm a full stack java trainee 💻
 
 About me:
-🧐 I'm currently working as a logistics operator
-🌱 I'm currently taking a course in Data Science using Python
-📫 How to reach me: catalina.gonpar@gmail.com
+*🧐 Currently working as a logistics operator
+*🌱 Taking a course in Data Science 
+*✍️ My professional interests include Logistics, Data Analysis, and Machine Learning
 
+*📫 How to reach me: catalina.gonpar@gmail.com
+
+##Always wanting to learn!🤓
